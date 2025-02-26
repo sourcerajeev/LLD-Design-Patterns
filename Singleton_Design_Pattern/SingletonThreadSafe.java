@@ -1,4 +1,4 @@
-package SingletonDesignPattern;
+package Singleton_Design_Pattern;
 
 public class SingletonThreadSafe 
 {
