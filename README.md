@@ -4,8 +4,7 @@
 |:---:|:---:|:---:|
 |Factory Method   |Adapter  |Chain of Responsibility
 |Abstract Factory |Bridge   |Command
-|Builder          |[Composite](https://github.com/sourcerajeev/LLD-Design-Patterns/tree/main/Composite_Design_Pattern)|Iterator
-|[Builder](https://github.com/sourcerajeev/LLD-Patterns/tree/main/Builder_Design_Pattern)          |Composite|Iterator
+|[Builder](https://github.com/sourcerajeev/LLD-Patterns/tree/main/Builder_Design_Pattern)|[Composite](https://github.com/sourcerajeev/LLD-Design-Patterns/tree/main/Composite_Design_Pattern)|Iterator
 |Prototype        |Decorator|Mediator
 |[Singleton](https://github.com/sourcerajeev/LLD-Patterns/tree/main/Singleton_Design_Pattern)        |Facade   |Memento
 |                 |Flyweight|Observer
